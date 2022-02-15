@@ -4,7 +4,7 @@
 ### Made By : Ahmad Mughrabi
 
 ### Requirements Page
-https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes
+https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes#assignment
 
 ### Website Page
 https://9amtech.github.io/Project1-Recipes/
